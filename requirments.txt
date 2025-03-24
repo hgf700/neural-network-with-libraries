@@ -1,1 +1,1 @@
-pip install jupyter pandas scikit-learn matplotlib pandas matplotlib ipykernel
+pip install jupyter pandas scikit-learn matplotlib ipykernel openai Wikipedia-API PyMuPDF
