@@ -1,1 +1,1 @@
-pip install jupyter pandas scikit-learn matplotlib ipykernel openai Wikipedia-API PyMuPDF seaborn gym pygame
+pip install jupyter pandas scikit-learn matplotlib ipykernel openai Wikipedia-API PyMuPDF seaborn gym pygame chess networkx python-louvain
